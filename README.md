@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**vanxun/vanxun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 你好，我是vanxun 👋
 
-Here are some ideas to get you started:
+本科 UESTC 金融学与计算机科学与技术双学位在读。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+爱好：`动画MAD`、`Vocaloid`、`Jpop`、`Wota艺`
+
+[B站主页](https://space.bilibili.com/443356352) ·
+[个人博客](https://blog.vanxun.xyz/) ·
+[邮箱](vanxuu152@gmail.com)
+
+### 常用技术
+
+`Python` · `C/C++` · `TypeScript` · `JavaScript` · `Git`
+
+---
+
+> 「项目做不完了怎么办，不如想想今晚吃什么吧。」
+
+</div>
