@@ -2,7 +2,7 @@
 
 # 你好，我是vanxun 👋
 
-` UESTC 金融与计科双学位在读。`
+### UESTC 金融与计科双学位在读。
 
 爱好：`动画MAD`、`Vocaloid`、`Jpop`、`Wota艺`
 
