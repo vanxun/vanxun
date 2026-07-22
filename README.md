@@ -8,7 +8,7 @@
 
 [B站主页](https://space.bilibili.com/443356352) ·
 [个人博客](https://blog.vanxun.xyz/) ·
-[邮箱](vanxuu152@gmail.com)
+[邮箱](vanxun152@gmail.com)
 
 ### 常用技术
 
