@@ -6,7 +6,7 @@
 
 专业：`金融学`、`计算机科学与技术`
 
-爱好：`动画MAD`、`Vocaloid`、`Jpop`、`Wota艺`
+爱好：`动画MAD`、`Vocaloid`、`Jpop`、`Wota艺`、`偶像`
 
 [B站主页](https://space.bilibili.com/443356352) ·
 [个人博客](https://blog.vanxun.xyz/) ·
